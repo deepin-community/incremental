@@ -1,0 +1,6 @@
+Tests: unit-tests-3
+Restrictions: needs-root
+Depends:
+ python3-click,
+ python3-twisted,
+ @,
